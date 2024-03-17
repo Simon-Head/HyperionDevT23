@@ -1,3 +1,3 @@
 message = input("Please enter a message: ")
 
-print(message)
+print(f"You entered: {message}")
